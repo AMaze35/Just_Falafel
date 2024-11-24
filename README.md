@@ -1,1 +1,1 @@
-# Just_Falafel
+“Just Falafel” is a dynamic and competitive multiplayer game set in the vibrant and historic backdrop of Egypt. Combining action-packed gameplay with a quirky twist, this game reimagines conflict as a chaotic yet thrilling battle over one of Egypt’s most beloved staples: falafel.
