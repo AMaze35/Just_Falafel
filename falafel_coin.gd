@@ -1,5 +1,7 @@
 extends Node3D
 
+# Falafel Collectable
+
 @onready var animation_player = $AnimationPlayer
 
 
