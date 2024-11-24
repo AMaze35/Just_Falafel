@@ -1,6 +1,6 @@
 extends CharacterBody3D
 
-# Character Movement
+# Player Movement
 
 const SPEED = 5.0
 const SPRINT = 7.5
